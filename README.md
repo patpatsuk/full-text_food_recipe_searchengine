@@ -1,4 +1,4 @@
-# MUICT2023 ITCS414 Project 2 Section 3
+# Full text food recipe search engine
 
 This application is a full text food search engine using `Elasticsearch` and `Flask` application.
 
